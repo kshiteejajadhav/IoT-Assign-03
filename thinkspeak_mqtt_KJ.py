@@ -4,9 +4,9 @@ import random
 
 # ==== ThingSpeak MQTT Credentials ====
 channel_id = "2894190" 
-mqtt_client_id = "EwsuAikdLREfJhg4ER8bKSc"
-mqtt_username = "EwsuAikdLREfJhg4ER8bKSc"
-mqtt_password = "j0MZl6dFr34hIL/Pg9Mnzhyy"
+mqtt_client_id = "NA8AKhYMKjQKLjQUGg4qCQY"
+mqtt_username = "NA8AKhYMKjQKLjQUGg4qCQY"
+mqtt_password = "lxJyZoeyuRzDRn9jXfHVlw//"
 
 # ==== MQTT Broker Settings ====
 broker = "mqtt3.thingspeak.com"
