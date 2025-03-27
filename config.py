@@ -1,0 +1,11 @@
+# ThingSpeak MQTT Settings
+CHANNEL_ID = "2894190"
+MQTT_CLIENT_ID = "NA8AKhYMKjQKLjQUGg4qCQY"
+MQTT_USERNAME = "NA8AKhYMKjQKLjQUGg4qCQY"
+MQTT_PASSWORD = "lxJyZoeyuRzDRn9jXfHVlw//"
+MQTT_BROKER = "mqtt3.thingspeak.com"
+MQTT_PORT = 1883
+MQTT_TOPIC = f"channels/{CHANNEL_ID}/publish"
+
+# ThingSpeak REST API (for GET requests)
+READ_API_KEY = "ECX3SBNSRANIGOHG"
