@@ -7,7 +7,7 @@ Along with it, scripts to read and analyze the measurements with ThingSpeak's AP
 Project Structure
 
 IoT_Assign_03
-	•	thinkspeak_mqtt_KJ.py          : Simulates and publishes data to ThingSpeak (MQTT)
+* thinkspeak_mqtt_KJ.py          : Simulates and publishes data to ThingSpeak (MQTT)
 	•	display_latest_data.py         : Fetches and displays the most recent data entry
 	•	display_5hrs_data.py           : Fetches all entries from the past 5 hours
 	•	display_mainmenu.py            : Simple menu interface to navigate data display options
