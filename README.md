@@ -37,7 +37,6 @@ Setup
 	5.	Note Channel ID and Read API Key
 
 How to Run
-
 To publish simulated data to ThingSpeak:
 python3 thinkspeak_mqtt_KJ.py
 
