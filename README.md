@@ -35,16 +35,16 @@ Ensure you install these Python packages:
 
 **How to Run**
 
-	* To publish simulated data to ThingSpeak:
+	 To publish simulated data to ThingSpeak:
 		python3 thinkspeak_mqtt_KJ.py
 	
-	* To display the latest data entry from ThingSpeak:
+	 To display the latest data entry from ThingSpeak:
 		python3 display_latest_data.py
 	
-	* To display all the data entries from the last 5 hours:
+	 To display all the data entries from the last 5 hours:
 		python3 display_5hrs_data.py
 	
-	* To display options using an interactive menu:
+	 To display options using an interactive menu:
 		python3 display_mainmenu.py
 
 **Checklist Before Submission**
