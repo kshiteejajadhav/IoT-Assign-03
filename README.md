@@ -1,4 +1,5 @@
 **IoT_Assign_03**
+
 This repository contains the implementation for Assignment 3 of CIS600: IoT Application Development (Spring 2025). 
 The goal is to simulate environmental sensor data and publish it to ThingSpeak using the MQTT protocol. 
 Along with it, scripts to read and analyze the measurements with ThingSpeak's API are included.
