@@ -12,7 +12,7 @@ Along with it, scripts to read and analyze the measurements with ThingSpeak's AP
 * README                         : Project documentation (this file)
 
 **Dependencies**
-Ensure you install these Python packages:
+(Ensure you install these Python packages)
 * paho-mqtt
 * requests
 
