@@ -34,6 +34,7 @@ Ensure you install these Python packages:
 * Note Channel ID and Read API Key
 
 **How to Run**
+
 	* To publish simulated data to ThingSpeak:
 		python3 thinkspeak_mqtt_KJ.py
 	
@@ -44,7 +45,7 @@ Ensure you install these Python packages:
 		python3 display_5hrs_data.py
 	
 	* To display options using an interactive menu:
-	 python3 display_mainmenu.py
+		python3 display_mainmenu.py
 
 **Checklist Before Submission**
 * Provided fields in ThingSpeak channel are appropriately named as field1, field2, and field3
