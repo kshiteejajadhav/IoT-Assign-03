@@ -21,7 +21,7 @@ Along with it, scripts to read and analyze the measurements with ThingSpeak's AP
 
 **Environment:**
 * Python 3.7 and above
-* macOS, Linux, or Windows (tested on macOS using Anaconda)
+* macOS, Linux, or Windows (tested on macOS using VS Code)
 
 **Setup**
 * Thingspeak account is created on thingspeak.com
