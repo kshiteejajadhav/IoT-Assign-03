@@ -3,10 +3,10 @@ import time
 import random
 
 # ==== ThingSpeak MQTT Credentials ====
-channel_id = "2894190" 
-mqtt_client_id = "NA8AKhYMKjQKLjQUGg4qCQY"
-mqtt_username = "NA8AKhYMKjQKLjQUGg4qCQY"
-mqtt_password = "lxJyZoeyuRzDRn9jXfHVlw//"
+channel_id = "YOUR_CHANNEL_ID" 
+mqtt_client_id = "YOUR_MQTT_CLIENT_ID"
+mqtt_username = "YOUR_MQTT_USERNAME"
+mqtt_password = "YOUR_MQTT_PASSWORD"
 
 # ==== MQTT Broker Settings ====
 broker = "mqtt3.thingspeak.com"
