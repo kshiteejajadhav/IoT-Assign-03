@@ -2,8 +2,8 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-CHANNEL_ID = "2894190"
-READ_API_KEY = "ECX3SBNSRANIG0HG"
+CHANNEL_ID = "YOUR_CHANNEL_ID"
+READ_API_KEY = "YOUR_KEY"
 
 def get_latest_data():
     url = f"https://api.thingspeak.com/channels/{CHANNEL_ID}/feeds/last.json?api_key={READ_API_KEY}"
